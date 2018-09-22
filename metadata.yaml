@@ -1,10 +1,13 @@
 _repo: Paris-Nights-And-Other-Impressions-of-Places-and-People_55116
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Rickards, E. A.
     gutenberg_agent_id: '48192'
     url: http://www.gutenberg.org/2009/agents/48192
+covers:
+- cover_type: archival
+  image_path: 55116-h/images/cover.jpg
 creator:
   author:
     agent_name: Bennett, Arnold
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/859
     wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55116#Paris-Nights-And-Other-Impressions-of-Places-and-People
 gutenberg_issued: '2017-07-15'
 gutenberg_type: Text
 identifiers:
